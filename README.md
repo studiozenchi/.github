@@ -1,1 +1,1 @@
-# .github
+# Studio Zenchi / スタジオ全知
