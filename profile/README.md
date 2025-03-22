@@ -5,5 +5,5 @@
 - **celeritas-core**
 - **celeritas-additions**
 
-- editor
-- scripting
+- (future) editor
+- (future) scripting
